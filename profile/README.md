@@ -58,7 +58,7 @@ its user controls:
 
 Some of our work is public today and shows the direction of travel:
 
-- **<a href="https://github.com/OpenMIND">OpenMIND</a>** — a native, local-first multi-model on
+- **<a href="https://github.com/OpenMINDx">OpenMIND</a>** — a native, local-first multi-model on
   your machine.
 
   
