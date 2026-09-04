@@ -3,8 +3,8 @@
 # cryptoAGI
 
 ### Cryptocurrency Autonomous General Intelligence
-
-*Intelligence that owns its own keys.*
+"**key.intelligence**"
+*Intelligence that owns the key.*
 
 <sub>An organization of the **[PYTHAI](https://pythai.net)** ecosystem — *AI for the knowledge economy.*</sub>
 
