@@ -14,7 +14,7 @@
 
 ## Who we are
 
-We are **cryptoAGI**. We build intelligence that is native to open networks — systems that can
+We are **cryptoAGI**. We build intelligence that is native to open networks — mindX systems
 reason, decide, and act using the same rails people use to hold and move value, without asking
 anyone's permission.
 
@@ -58,8 +58,10 @@ its user controls:
 
 Some of our work is public today and shows the direction of travel:
 
-- **OpenMIND** — a native, local-first AI workspace: multi-model, run against your own models, on
-  your own machine.
+- **<a href="https://github.com/OpenMIND">OpenMIND</a>** — a native, local-first multi-model on
+  your machine.
+
+  
 - **Self-evolution research** — methods for systems that improve their own procedures over time.
 - **Open inference infrastructure** — high-throughput model serving and generation tooling.
 - **Wallet-signature authentication** — logging in and proving identity with a cryptographic key.
@@ -67,9 +69,9 @@ Some of our work is public today and shows the direction of travel:
   reading markets.
 
 These mature in the open as they are ready. Much of the deeper work is developed privately and
-revealed alongside the vision, in its own time.
+revealed alongside the vision in the spirit of "when ready" release cycles.
 
-## The ecosystem we grew from
+## crptsys heritage
 
 cryptoAGI is part of **[PYTHAI](https://pythai.net)** — *AI for the knowledge economy* — and
 works alongside a wider open network of organizations:
