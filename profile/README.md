@@ -58,6 +58,19 @@ its user controls:
 
 Some of our work is public today and shows the direction of travel:
 
+- **<a href="https://github.com/cryptoAGI/savante">Savante</a>**, the prototype sAGI, released as a `.persona`.
+
+  <img src="https://raw.githubusercontent.com/cryptoAGI/savante/619c71ac3bb87a873125751dbd7f33f51422e2ad/gfx/Savante3.png" alt="Savante, the bust" width="200" align="right">
+
+  Savante is a read-only reviewer. A claim is known when it survives verification against evidence, and unknown
+  otherwise, and every verdict is one of four: APPROVE, APPROVE_WITH_CONDITIONS, REJECT or DEFER. The office is
+  a charter, a `/sagi` skill and a facet bundle. Anyone can check it offline with `sha256sum -c PROOF.sha256`
+  and `bind/savante_verify.py`. It runs on the **<a href="https://github.com/cryptoAGI/sagi">sAGI engine</a>**,
+  and there is a public office on
+  <a href="https://huggingface.co/spaces/Gregory-L/Savante">Hugging Face</a>. The bust is the named artwork.
+  Nothing is minted yet.
+  <br clear="right">
+
 - **<a href="https://github.com/OpenMINDx">OpenMIND</a>** — a native, local-first multi-model on
   your machine.
 
